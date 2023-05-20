@@ -2,8 +2,7 @@ import React, { useContext } from 'react';
 import { Box, Typography } from '@mui/material';
 import ExerciseCard from './ExerciseCard.js';
 import BodyPart from './BodyPart';
-import RightArrowIcon from '../assets/icons/right-arrow.png';
-import LeftArrowIcon from '../assets/icons/left-arrow.png';
+
 
 
   
